@@ -18,10 +18,10 @@ This sets the foundation for accurate analysis.
 
 ## 🗂️ Repository Structure
 
-layoffs-data-cleaning/
+```layoffs-data-cleaning/
 │
 ├── README.md               # Introduction and purpose
 │
 ├── layoffs_cleaning.sql    # SQL script for data cleaning
 │
-└── layoffs/                # Raw dataset folder
+└── layoffs/                # Raw dataset folder```

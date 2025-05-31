@@ -15,3 +15,12 @@ This sets the foundation for accurate analysis.
 - Standardize inconsistent entries
 - Handle blank and NULL values
 - Drop irrelevant columns
+
+## 🗂️ Repository Structure
+layoffs-data-cleaning/
+│
+├── README.md                  # Introduction and purpose      
+│
+├── layoffs_cleaning.sql       # SQL script for data cleaning 
+│
+└── layoffs                    # Raw Dataset

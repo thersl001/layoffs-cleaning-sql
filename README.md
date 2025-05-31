@@ -24,4 +24,4 @@ This sets the foundation for accurate analysis.
 │
 ├── layoffs_cleaning.sql    # SQL script for data cleaning
 │
-└── layoffs/                # Raw dataset folder
+└── layoffs/                # Raw dataset file

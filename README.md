@@ -17,6 +17,7 @@ This sets the foundation for accurate analysis.
 - Drop irrelevant columns
 
 ## 🗂️ Repository Structure
+
 layoffs-data-cleaning/
 │
 ├── README.md                  # Introduction and purpose      

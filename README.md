@@ -17,11 +17,11 @@ This sets the foundation for accurate analysis.
 - Drop irrelevant columns
 
 ## 🗂️ Repository Structure
-
-```layoffs-data-cleaning/
+```
+layoffs-data-cleaning/
 │
 ├── README.md               # Introduction and purpose
 │
 ├── layoffs_cleaning.sql    # SQL script for data cleaning
 │
-└── layoffs/                # Raw dataset file
+└── layoffs                 # Raw dataset file
